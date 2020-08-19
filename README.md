@@ -13,7 +13,7 @@ I'm a software engineer at USAA, where I work on building highly resilient distr
 * I try to hack away at building cool things. 🔨
 
 ## Reach out to me via
-[LinkedIn](https://www.linkedin.com/in/brandonjurado/) | [Email](hello@bjurado.com) | [Twitter](https://twitter.com/mrmobl)
+[LinkedIn](https://www.linkedin.com/in/brandonjurado/) | [Email](hello@bjurado.com) | [Twitter](https://twitter.com/BrandonJDev)
 <!--
 **brandonjurado/brandonjurado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
