@@ -14,7 +14,7 @@ I'm a software engineer at T-Mobile, where I work on building emerging technolog
 * I try to hack away at building cool things 🔨
 
 ## Reach out to me via
-[LinkedIn](https://www.linkedin.com/in/brandonjurado/) | [Email](hello@bjurado.com) | [Twitter](https://twitter.com/BrandonJDev)
+[LinkedIn](https://www.linkedin.com/in/brandonjurado/) | [Email](hello@bjurado.com)
 <!--
 **brandonjurado/brandonjurado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
