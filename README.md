@@ -1,6 +1,6 @@
 # Hey, I'm Brandon! 👋
 
-I'm a software engineer at T-Mobile, where I work on building emerging technology solutions. I enjoy learning and building tools related to whatever trend I'm following at the time! In the past that has been: blockchain, GoLang, React, Angular, Vue and Swift to name a few, sometimes circling back.
+I'm a software engineer at T-Mobile, where I work on building emerging technology solutions. I enjoy learning and building tools related to whatever trend I'm following at the time! Currently that is all things Web3 and Solidity, which has rekindled my interest in crypto from when I first discovered BTC in 2013. In the past, my interests and/or side projects have been built on: GoLang, React, Angular, Vue, Kotlin and Swift to name a few.
 
 ## Previously...
 * I helped identify malicious actors through Identity Access Management for [USAA](https://www.usaa.com/) 🕵️🏦
@@ -10,7 +10,7 @@ I'm a software engineer at T-Mobile, where I work on building emerging technolog
 
 ## In my free time
 * I enjoy gaming 🎮 
-* I have been obsessed with reading finance books lately 📚
+* I read books on financial independence, as well as online tech news 📚
 * I try to hack away at building cool things 🔨
 
 ## Reach out to me via
